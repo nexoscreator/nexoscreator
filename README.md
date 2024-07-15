@@ -11,7 +11,7 @@
 #
 🚀 **Skills and Expertise:**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,ts,nodejs,nuxtjs,vue,tailwind,azure,vercel,cloudflare,firebase,supabase,github,figma,git,md,unity)](https://nexoscreator.pro)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,html,css,js,ts,nodejs,nuxtjs,vue,tailwind,dart,flutter,azure,vercel,cloudflare,firebase,supabase,github,figma,git,md,unity,ue5)](https://nexoscreator.pro)
 #
 📫 **Reach me at:**
 
