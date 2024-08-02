@@ -7,11 +7,18 @@
 <samp>「 I'm passionate about os devlopment, web development, game development, and creating content on YouTube and also blogging. 」</samp>
 </p>
 </div>
-
 #
-🚀 **Skills and Expertise:**
+🚀 **Using Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,html,css,js,ts,nodejs,nuxtjs,vue,tailwind,dart,flutter,azure,vercel,cloudflare,firebase,supabase,github,figma,git,md,unity,ue5)](https://nexoscreator.pro)
+[![Languages](https://skillicons.dev/icons?i=c,cs,cpp,dotnet,java,kotlin,bash,dart,flutter,nodejs,vue,nuxtjs,nextjs,astro,express,vite,materialui,discordjs,html,css,js,ts,bots,md&theme=dark)](https://nexoscreator.pro)
+#
+🔎 **Using Technologies:**
+
+[![Technology](https://skillicons.dev/icons?i=azure,gcp,cloudflare,workers,firebase,appwrite,supabase,vercel,netlify,heroku,redis,mongodb,git,github,gitlab,npm,pnpm,yarn,bun,docker&theme=dark)](https://nexoscreator.pro)
+#
+⚙️ **Using Software:**
+
+[![Software](https://skillicons.dev/icons?i=windows,arch,kali,androidstudio,visualstudio,vscode,unity,unreal,blender,idea,webstorm,clion,rider,vim,neovim,figma,notion,discord,twitter&theme=dark)](https://nexoscreator.pro)
 #
 📫 **Reach me at:**
 
