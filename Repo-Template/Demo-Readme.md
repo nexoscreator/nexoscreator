@@ -2,7 +2,6 @@
 ![GitHub Latest Release](https://img.shields.io/github/v/release/nexoscreation/featurastic-music-page.svg?style=flat-square&color=cyan)
 ![GitHub License](https://img.shields.io/github/license/nexoscreation/featurastic-music-page.svg?style=flat-square&color=cyan)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/nexoscreation/featurastic-music-page.svg?style=flat-square&color=cyan)
-[![Deploy Music Player Pages](https://github.com/nexoscreation/featurastic-music-page/actions/workflows/static.yml/badge.svg)](https://github.com/nexoscreation/featurastic-music-page/actions/workflows/static.yml)
 
 ---
 
