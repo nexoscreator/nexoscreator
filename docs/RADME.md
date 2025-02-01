@@ -1,1 +1,0 @@
-## Constributing Guid Coming Soon!
