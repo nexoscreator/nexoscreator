@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Ask a Question
+    url: https://github.com/nexoscreator/<repo-url>/discussions
+    about: Please use GitHub Discussions for general questions and support.
+  - name: 📖 Read the Docs
+    url: https://www.nexoscreator.tech/docs
+    about: Check out the documentation before opening a new issue.
