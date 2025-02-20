@@ -53,4 +53,4 @@
 ---
 
 ### 🌟 **Let's Connect and Collaborate!**
-Thank you for visiting my profile. I’m always open to collaborating on exciting projects and sharing knowledge. Let’s create something amazing together! 😊
+Thank you for visiting my profile. I’m always open to collaborating on exciting projects and sharing knowledge. Let’s create something amazing together! 
