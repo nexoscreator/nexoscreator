@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Questions
-    url: https://github.com/nexoscreator/discussions
-    about: If you have questions, please ask them in our discussions forum.
-  - name: General Support
-    url: https://github.com/nexoscreator/issues
-    about: For general support, open an issue.
