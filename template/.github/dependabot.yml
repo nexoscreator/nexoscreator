@@ -1,0 +1,37 @@
+# GitHub Dependabot Configuration
+version: 2
+updates:
+  # 🔹 Enable dependency updates for GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+
+  # 🔹 Enable updates for npm dependencies
+  - package-ecosystem: "npm"
+    directory: "/" # Change this if package.json is in a subdirectory
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 10
+    ignore:
+      - dependency-name: "eslint"
+        versions: ["<8.0.0"] # Example: Ignore major updates below v8
+
+  # 🔹 Enable updates for Docker dependencies (if using Docker)
+  - package-ecosystem: "docker"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+
+  # 🔹 Enable updates for Python dependencies (if using Python)
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+
+  # 🔹 Enable updates for GitHub Actions workflows (if using CI/CD)
+  - package-ecosystem: "github-actions"
+    directory: "/.github/workflows"
+    schedule:
+      interval: "daily"
