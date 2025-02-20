@@ -1,38 +1,74 @@
-## Description
+# 🚀 Pull Request Template  
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+## 📌 Description  
+_A brief description of what your pull request does._  
 
-Fixes # (issue)
+> Example:  
+> ✨ Added dark mode support for the website.  
 
-## Type of change
+---
 
-Please delete options that are not relevant.
+## ✅ Changes Made  
+_List the major changes in this PR._  
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
+- [ ] 🔹 **New Feature** – Added `<feature-name>`  
+- [ ] 🐛 **Bug Fix** – Fixed `<bug-description>`  
+- [ ] 📖 **Docs Update** – Updated `<document>`  
+- [ ] 🎨 **UI/UX** – Improved `<UI/UX changes>`  
+- [ ] 🚀 **Performance** – Optimized `<feature>`  
+- [ ] 🧹 **Refactoring** – Cleaned up `<code>`  
 
-## How Has This Been Tested?
+---
 
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration.
+## 🔍 Issue Reference  
+_If this PR fixes an issue, link it here._  
 
-- [ ] Test A
-- [ ] Test B
+Closes #`<issue-number>`  
 
-**Test Configuration**:
-* Firmware version:
-* Hardware:
-* Toolchain:
-* SDK:
+---
 
-## Checklist:
+## 🖼️ Screenshots (if applicable)  
+_Add screenshots to show the changes visually._  
 
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] Any dependent changes have been merged and published in downstream modules
+---
+
+## 🛠 How to Test  
+_Provide step-by-step instructions to test this PR._  
+
+```bash
+# Example: Install dependencies and run project
+npm install
+npm run dev
+```
+
+1. Go to `<page/feature>`  
+2. Click `<button/link>`  
+3. Verify `<expected behavior>`  
+
+---
+
+## ❗ Breaking Changes?  
+_If this PR introduces a breaking change, explain what users need to do._  
+
+- [ ] ❌ **Yes** – `<describe breaking changes>`  
+- [ ] ✅ **No**  
+
+---
+
+## 📢 Additional Notes  
+_Any extra information for reviewers._  
+
+---
+
+## ✅ Checklist  
+_Before submitting, ensure you follow these steps:_  
+
+- [ ] My code follows the **project’s coding style**.  
+- [ ] I have **tested** my changes and they work correctly.  
+- [ ] I have added **necessary documentation/comments**.  
+- [ ] I have **linked the related issue** (if applicable).  
+- [ ] This PR is **ready for review**.  
+
+---
+
+💖 **Thank you for contributing to `<Project Name>`!** 🚀  
