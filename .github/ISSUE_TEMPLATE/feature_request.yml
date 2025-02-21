@@ -36,5 +36,4 @@ body:
           required: false
   - type: markdown
     attributes:
-      value: |
-        😴 **Thank you for suggesting improvements to `<Project Name>`!** 🚀
+      value: "💖 **Thank you for suggesting improvements to `<Project Name>`!** 🚀"

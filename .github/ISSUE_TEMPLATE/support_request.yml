@@ -18,7 +18,7 @@ body:
       placeholder: |
         - ✅ Read the [Documentation](https://github.com/nexoscreator/<your-repo>/wiki)  
         - ✅ Checked [Existing Issues](https://github.com/nexoscreator/<your-repo>/issues)  
-        - ✅ Tried troubleshooting on my own  
+        - ✅ Tried troubleshooting on my own
   - type: textarea
     attributes:
       label: "📸 Screenshots or Code Snippets (If Applicable)"

@@ -51,5 +51,4 @@ body:
           required: false
   - type: markdown
     attributes:
-      value: |
-        😴 Thank you for helping improve <Project Name>! 🚀
+      value: "💖 **Thank you for helping improve <Project Name>!** 🚀"
