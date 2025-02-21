@@ -2,7 +2,7 @@ name: Auto Update Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
+    - cron: "0 0 * * *" # Runs daily at midnight
 
 jobs:
   update-stats:

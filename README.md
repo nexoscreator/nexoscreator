@@ -26,14 +26,17 @@
 
 ---
 
-### 🚀 **Languages & Frameworks**  
-![Languages](https://skillicons.dev/icons?i=c,cs,cpp,dotnet,java,kotlin,bash,dart,flutter,nodejs,vue,nuxtjs,nextjs,astro,express,vite,materialui,discordjs,html,css,js,ts,bots,md&theme=dark)  
+### 🚀 **Languages & Frameworks**
 
-### ☁️ **Cloud & DevOps**  
-![Cloud](https://skillicons.dev/icons?i=azure,gcp,cloudflare,workers,firebase,appwrite,supabase,vercel,netlify,heroku,redis,mongodb,git,github,gitlab,npm,pnpm,yarn,bun,docker&theme=dark)  
+![Languages](https://skillicons.dev/icons?i=c,cs,cpp,dotnet,java,kotlin,bash,dart,flutter,nodejs,vue,nuxtjs,nextjs,astro,express,vite,materialui,discordjs,html,css,js,ts,bots,md&theme=dark)
 
-### 🖥 **Software & Tools**  
-![Software](https://skillicons.dev/icons?i=windows,arch,kali,androidstudio,visualstudio,vscode,unity,unreal,blender,idea,webstorm,clion,rider,vim,neovim,figma,notion,discord,twitter&theme=dark)  
+### ☁️ **Cloud & DevOps**
+
+![Cloud](https://skillicons.dev/icons?i=azure,gcp,cloudflare,workers,firebase,appwrite,supabase,vercel,netlify,heroku,redis,mongodb,git,github,gitlab,npm,pnpm,yarn,bun,docker&theme=dark)
+
+### 🖥 **Software & Tools**
+
+![Software](https://skillicons.dev/icons?i=windows,arch,kali,androidstudio,visualstudio,vscode,unity,unreal,blender,idea,webstorm,clion,rider,vim,neovim,figma,notion,discord,twitter&theme=dark)
 
 ---
 
@@ -43,5 +46,6 @@
 
 ---
 
-### 🎯 **Support Us**  
-If you like our work and want to support us, consider **starring ⭐ our repositories** or **sponsoring 💖 us on GitHub**!  
+### 🎯 **Support Us**
+
+If you like our work and want to support us, consider **starring ⭐ our repositories** or **sponsoring 💖 us on GitHub**!

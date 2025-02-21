@@ -10,15 +10,15 @@ body:
       description: "A clear and concise description of your question or issue."
       placeholder: |
         > Example:  
-        > How can I deploy `<Project Name>` to **Vercel**?
+        > How can I deploy Nexos Creator to **Vercel**?
   - type: textarea
     attributes:
       label: "🛠️ What Have You Tried?"
       description: "Describe any steps you've already taken to solve the issue."
       placeholder: |
-        - ✅ Read the [Documentation](https://github.com/nexoscreator/<your-repo>/wiki)  
-        - ✅ Checked [Existing Issues](https://github.com/nexoscreator/<your-repo>/issues)  
-        - ✅ Tried troubleshooting on my own  
+        - ✅ Read the [Documentation](https://github.com/nexoscreator/nexoscreator/wiki)  
+        - ✅ Checked [Existing Issues](https://github.com/nexoscreator/nexoscreator/issues)  
+        - ✅ Tried troubleshooting on my own
   - type: textarea
     attributes:
       label: "📸 Screenshots or Code Snippets (If Applicable)"
@@ -46,4 +46,4 @@ body:
       value: "💡 **Need faster help?** Join our **Discord community**: [Join Here](https://discord.gg/H7pVc9aUK2)"
   - type: markdown
     attributes:
-      value: "💖 **Thank you for using `<Project Name>`!** 🚀"
+      value: "💖 **Thank you for using Nexos Creator!** 🚀"
