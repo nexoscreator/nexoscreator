@@ -3,7 +3,7 @@
     <samp>&gt; Hey There! <b><a target="_blank" href="https://www.nexoscreator.tech">Welcome</a></b></samp>
   </h2>
   <p>
-    <samp>「 I'm passionate about OS development, web development, game development, and content creation on YouTube & blogs. 」</samp>
+    <samp>「 I'm passionate about Software development, Web development, Game development, and content creation on YouTube & blogs. 」</samp>
   </p> 
 </div>
 
@@ -28,15 +28,15 @@
 
 ### 🚀 **Languages & Frameworks**
 
-![Languages](https://skillicons.dev/icons?i=cpp,cs,dotnet,java,kotlin,dart,flutter,nodejs,vue,nuxtjs,nextjs,astro,express,vite,materialui,tailwind,discordjs,htmx,html,css,js,ts,bash,md&theme=dark&perline=12)
+[![Languages](https://skillicons.dev/icons?i=cpp,cs,dotnet,kotlin,dart,flutter,nodejs,vue,nuxtjs,nextjs,astro,express,vite,materialui,tailwind,discordjs,htmx,html,css,js,ts,bash,md&theme=dark&perline=12)](https://www.nexoscreator.tech)
 
 ### ☁️ **Cloud & DevOps**
 
-![Cloud](https://skillicons.dev/icons?i=azure,gcp,cloudflare,workers,firebase,appwrite,supabase,vercel,netlify,heroku,redis,mongodb,git,github,gitlab,npm,pnpm,yarn,bun,docker,bots&theme=dark&perline=12)
+[![Cloud](https://skillicons.dev/icons?i=azure,gcp,cloudflare,workers,firebase,appwrite,supabase,vercel,netlify,heroku,redis,mongodb,git,github,gitlab,npm,pnpm,yarn,bun,docker,bots&theme=dark&perline=12)](https://www.nexoscreator.tech)
 
 ### 🖥 **Software & Tools**
 
-![Software](https://skillicons.dev/icons?i=windows,linux,arch,kali,androidstudio,visualstudio,vscode,unity,unreal,blender,idea,webstorm,clion,rider,vim,neovim,figma,notion,discord,twitter&theme=dark&perline=12)
+[![Software](https://skillicons.dev/icons?i=windows,linux,arch,kali,androidstudio,visualstudio,vscode,unity,unreal,blender,idea,webstorm,clion,rider,vim,neovim,figma,notion,discord,twitter&theme=dark&perline=12)](https://www.nexoscreator.tech)
 
 ---
 
