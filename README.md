@@ -1,6 +1,6 @@
 <div align="center">
   <h2>
-    <samp>&gt; Hey There! <b><a target="_blank" href="https://www.nexoscreator.tech">Welcome</a></b></samp>
+    <samp>&gt; Hey There! <b><a target="_blank" href="https://creator.nexoslabs.site">Welcome</a></b></samp>
   </h2>
   <p>
     <samp>「 I'm passionate about Software development, Web development, Game development, and content creation on YouTube & blogs. 」</samp>
@@ -11,7 +11,7 @@
   <a href="https://youtube.com/@nexoscreator">
     <img alt="YouTube" src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" />
   </a>
-  <a href="mailto:contact@nexoscreator.tech">
+  <a href="mailto:contact@nexoslabs.site">
     <img alt="Outlook" src="https://img.shields.io/static/v1?message=Outlook&logo=gmail&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" />
   </a>
   <a href="https://twitter.com/nexoscreator">
@@ -28,15 +28,15 @@
 
 ### 🚀 **Languages & Frameworks**
 
-[![Languages](https://skillicons.dev/icons?i=cpp,cs,dotnet,kotlin,dart,flutter,nodejs,vue,nuxtjs,nextjs,astro,express,vite,materialui,tailwind,discordjs,htmx,html,css,js,ts,bash,md&theme=dark&perline=12)](https://www.nexoscreator.tech)
+[![Languages](https://skillicons.dev/icons?i=cpp,cs,dotnet,kotlin,dart,flutter,nodejs,vue,nuxtjs,nextjs,astro,express,vite,materialui,tailwind,discordjs,htmx,html,css,js,ts,bash,md&theme=dark&perline=12)](https://creator.nexoslabs.site)
 
 ### ☁️ **Cloud & DevOps**
 
-[![Cloud](https://skillicons.dev/icons?i=azure,gcp,cloudflare,workers,firebase,appwrite,supabase,vercel,netlify,heroku,redis,mongodb,git,github,gitlab,npm,pnpm,yarn,bun,docker,bots&theme=dark&perline=12)](https://www.nexoscreator.tech)
+[![Cloud](https://skillicons.dev/icons?i=azure,gcp,cloudflare,workers,firebase,appwrite,supabase,vercel,netlify,heroku,redis,mongodb,git,github,gitlab,npm,pnpm,yarn,bun,docker,bots&theme=dark&perline=12)](https://creator.nexoslabs.site)
 
 ### 🖥 **Software & Tools**
 
-[![Software](https://skillicons.dev/icons?i=windows,linux,arch,kali,androidstudio,visualstudio,vscode,unity,unreal,blender,idea,webstorm,clion,rider,vim,neovim,figma,notion,discord,twitter&theme=dark&perline=12)](https://www.nexoscreator.tech)
+[![Software](https://skillicons.dev/icons?i=windows,linux,arch,kali,androidstudio,visualstudio,vscode,unity,unreal,blender,idea,webstorm,clion,rider,vim,neovim,figma,notion,discord,twitter&theme=dark&perline=12)](https://creator.nexoslabs.site)
 
 ---
 

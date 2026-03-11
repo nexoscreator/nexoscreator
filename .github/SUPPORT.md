@@ -41,7 +41,7 @@ For general questions, discussions, or networking, join our community:
 ### ✉️ 5. Contact Us Privately
 
 For **security concerns** or private matters, email us at:  
-📧 [support@nexoscreator.tech](mailto:support@nexoscreator.tech)
+📧 [support@nexoslabs.site](mailto:support@nexoslabs.site)
 
 ---
 

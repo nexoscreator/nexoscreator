@@ -2,7 +2,7 @@
 
 ## 📌 Supported Versions
 
-We actively maintain and support the following versions ofNexos Creator:
+We actively maintain and support the following versions of Nexos Creator:
 
 | Version        | Supported            |
 | -------------- | -------------------- |
@@ -20,7 +20,7 @@ If you discover a **security issue** inNexos Creator, please **DO NOT** report i
 ### 📩 1. Contact Us Privately
 
 Send an **email** to our security team at:  
-📧 [security@nexoscreator.tech](mailto:security@nexoscreator.tech)
+📧 [security@nexoslabs.site](mailto:security@nexoslabs.site)
 
 Include:
 
